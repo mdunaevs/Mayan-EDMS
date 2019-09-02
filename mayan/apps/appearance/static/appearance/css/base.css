@@ -410,3 +410,21 @@ a i {
 .btn-list {
     margin-bottom: 2px;
 }
+
+
+button.btn.btn-default {
+  background-color: #f39c12;
+  color: black
+}
+
+.pull-left {
+  color: #f39c12
+}
+
+.pull-right {
+  color: #f39c12
+}
+
+div.panel-footer {
+  background-color: #161F27
+}
